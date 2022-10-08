@@ -5,8 +5,8 @@ C# version of [NTLMRawUnHide](https://github.com/mlgualtieri/NTLMRawUnHide). Bas
 ```bash
 SharpNTLMRawUnHide.exe input-file
 ```
-![Capturing hashes](capture.jpg)
-![Cracking](craking.jpg)
+![Capturing hashes](./capture.jpg)
+![Cracking](./craking.jpg)
 
 # Author
 Juan Manuel Fernández ([TheXC3LL](https://twitter.com/TheXC3LL))
